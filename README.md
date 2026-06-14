@@ -10,3 +10,6 @@
 
 <h1>Final Project</h1>
 <img src = "DashboardProiectFinal.PNG">
+
+<h1>Costuri Furnizori</h1>
+<img src = "CosturiFurnizori.PNG">
